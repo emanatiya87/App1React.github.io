@@ -1,0 +1,11 @@
+
+.container #Data{
+border: 1px saddlebrown solid;
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+}
+
+.container #Data .card{
+    border: 1px solid gray;
+}
